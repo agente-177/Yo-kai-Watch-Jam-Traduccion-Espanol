@@ -3,7 +3,7 @@
 </div>
 
 # Yo-Kai Watch Jam Traduccion al español
-Juego está siendo traducido de manera manual y también desde una versión inglesa.
+El juego está siendo traducido de manera manual y también desde una versión inglesa.
 # Importante
 **Es necesaria la actualización 4.0.0 del juego para que todo funcione sin errores.**
 # Instalación
@@ -22,7 +22,7 @@ Para atmosphere: `Atmosphere/contents/010051d010fc2000`
 Para SXOS: `SXOS/titles/010051d010fc2000`
 
 # Creditos
-- Y School Heroes: Bustlin' School Life. English Translation Mod Team (check [gbatemp.net page](https://gamebanana.com/mods/480082) - Base del juego en inglés.
+- Y School Heroes: Bustlin' School Life. English Translation Mod Team (check [gbatemp.net page](https://gamebanana.com/mods/480082) -Mod del juego en inglés.
 - Su servidor de Discord es: https://discord.gg/2SzR528q
 
 # PROJECT MAKE A DREAM
